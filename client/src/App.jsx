@@ -15,6 +15,8 @@ function App() {
         Deserunt, sequi! Facere accusamus, earum illo doloribus porro corrupti
         ullam esse officia!
       </p>
+
+      <h1>LOGIN PAGE</h1>
     </>
   );
 }
