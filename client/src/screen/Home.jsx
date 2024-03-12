@@ -1,9 +1,13 @@
 import React from 'react'
+import Sidebar from '../components/Home/Sidebar'
 
 const Home = () => {
   return (
-    <div>
-      Home Page
+    <div className='flex'>
+      <Sidebar />
+
+      
+
     </div>
   )
 }
