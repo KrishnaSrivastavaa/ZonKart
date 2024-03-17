@@ -1,0 +1,80 @@
+{
+    "specialOffer": [
+        {
+            "id": 1,
+            "title": "Men Shoes",
+            "description": "Best Shoes Discount 35% OFF on all Men Shoes",
+            "offerImage": "https://th.bing.com/th/id/OIP._oeX-Bqc-xYlW-mmTWJwFgHaE7?rs=1&pid=ImgDetMain",
+            "brandImages": [
+                "https://i.etsystatic.com/26635049/r/il/6cf537/2925718236/il_1588xN.2925718236_pe9u.jpg",
+                "https://th.bing.com/th/id/OIP.8FLDYYC7C0Sz1QXXwqoZNwHaHa?w=500&h=500&rs=1&pid=ImgDetMain",
+                "https://th.bing.com/th/id/OIP.YZiXHfPBi0jedtvZvxn7kQHaFb?rs=1&pid=ImgDetMain"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Women Shoes",
+            "description": "Best Shoes Discount 25% OFF on all Women Shoes",
+            "offerImage": "https://www.chikoshoes.com/wp-content/uploads/2023/04/2304BSH3032708-4.jpg",
+            "brandImages": [
+                "https://i.etsystatic.com/26635049/r/il/6cf537/2925718236/il_1588xN.2925718236_pe9u.jpg",
+                "https://th.bing.com/th/id/OIP.8FLDYYC7C0Sz1QXXwqoZNwHaHa?w=500&h=500&rs=1&pid=ImgDetMain",
+                "https://th.bing.com/th/id/OIP.YZiXHfPBi0jedtvZvxn7kQHaFb?rs=1&pid=ImgDetMain"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Kids Shoes",
+            "description": "Best Shoes Discount 35% OFF on all Kids Shoes",
+            "offerImage": "https://th.bing.com/th/id/OIP._oeX-Bqc-xYlW-mmTWJwFgHaE7?rs=1&pid=ImgDetMain",
+            "brandImages": [
+                "https://i.etsystatic.com/26635049/r/il/6cf537/2925718236/il_1588xN.2925718236_pe9u.jpg",
+                "https://th.bing.com/th/id/OIP.8FLDYYC7C0Sz1QXXwqoZNwHaHa?w=500&h=500&rs=1&pid=ImgDetMain",
+                "https://th.bing.com/th/id/OIP.YZiXHfPBi0jedtvZvxn7kQHaFb?rs=1&pid=ImgDetMain"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Men Shirts",
+            "description": "Best Shits Discount 30% OFF on all Men Shirts",
+            "offerImage": "https://th.bing.com/th/id/OIP._oeX-Bqc-xYlW-mmTWJwFgHaE7?rs=1&pid=ImgDetMain",
+            "brandImages": [
+                "https://i.etsystatic.com/26635049/r/il/6cf537/2925718236/il_1588xN.2925718236_pe9u.jpg",
+                "https://th.bing.com/th/id/OIP.8FLDYYC7C0Sz1QXXwqoZNwHaHa?w=500&h=500&rs=1&pid=ImgDetMain",
+                "https://th.bing.com/th/id/OIP.YZiXHfPBi0jedtvZvxn7kQHaFb?rs=1&pid=ImgDetMain"
+            ]
+        }
+    ],
+    "productsData": [
+        {
+            "productImage": "https://img.kwcdn.com/product/1dec4a0c30/8f323484-cf5d-4cac-8ae0-061e710bb20b_800x800.jpeg?imageMogr2/cut/800x800x0x0",
+            "productName": "Nike Fashion Shoes",
+            "price": "999"
+        },
+        {
+            "productImage": "https://th.bing.com/th/id/OIP.L0LcmcRLKMh8mmjII3kAqQHaHa?pid=ImgDet&w=199&h=199&c=7&dpr=1.5",
+            "productName": "Nike Fashion Shoes",
+            "price": "999"
+        },
+        {
+            "productImage": "https://th.bing.com/th/id/OIP.Smd9cewrTYny_7G89Xp4eQHaJ4?pid=ImgDet&w=199&h=265&c=7&dpr=1.5",
+            "productName": "Nike Fashion Shoes",
+            "price": "999"
+        },
+        {
+            "productImage": "https://img.kwcdn.com/product/1dec4a0c30/8f323484-cf5d-4cac-8ae0-061e710bb20b_800x800.jpeg?imageMogr2/cut/800x800x0x0",
+            "productName": "Nike Fashion Shoes",
+            "price": "999"
+        },
+        {
+            "productImage": "https://th.bing.com/th/id/OIP.Smd9cewrTYny_7G89Xp4eQHaJ4?pid=ImgDet&w=199&h=265&c=7&dpr=1.5",
+            "productName": "Nike Fashion Shoes",
+            "price": "999"
+        },
+        {
+            "productImage": "https://img.kwcdn.com/product/1dec4a0c30/8f323484-cf5d-4cac-8ae0-061e710bb20b_800x800.jpeg?imageMogr2/cut/800x800x0x0",
+            "productName": "Nike Fashion Shoes",
+            "price": "999"
+        }
+    ]
+}
